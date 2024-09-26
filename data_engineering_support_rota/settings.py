@@ -15,9 +15,8 @@ google_calendar_api = {
 }
 
 support_team = {
-    "start_cycle_with": "g_sevens",
+    "start_cycle_with": "everyone_else",
     "g_sevens": [
-        "David",
         "Gustav",
         "Gwion",
         "James",
@@ -25,6 +24,7 @@ support_team = {
         "Oliver",
         "Priya",
         "Soumaya",
+        "Supratik",
         "Tapan"
     ],
     "everyone_else": [
@@ -37,7 +37,6 @@ support_team = {
         "Matt L",
         "Murad",
         "Murdo",
-        "Parminder",
         "Siva",
         "Theo",
         "Thomas",
@@ -48,6 +47,6 @@ support_team = {
 }
 
 date_range = {
-    "start_date": "2024-08-19",
+    "start_date": "2024-10-04",
     "n_cycles": 4,
 }
