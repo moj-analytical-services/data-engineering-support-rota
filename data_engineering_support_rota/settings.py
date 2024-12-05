@@ -24,7 +24,8 @@ support_team = {
         "Oliver",
         "Priya",
         "Supratik",
-        "Tapan"
+        "Tapan",
+        "Andrew Cr"
     ],
     "everyone_else": [
         "Andy",
@@ -45,6 +46,6 @@ support_team = {
 }
 
 date_range = {
-    "start_date": "2024-10-25",
+    "start_date": "2024-12-05",
     "n_cycles": 4,
 }
